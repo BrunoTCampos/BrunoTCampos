@@ -1,16 +1,29 @@
-## Hi there 👋
+## Bruno Campos 👋🏛️
 
-<!--
-**BrunoTCampos/BrunoTCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm Bruno Campos, Msc Student in International Relations | University of São Paulo (UFU). Experience in content analysis, webscraping in R, discourse analysis, legislative studies and political behaviour in Brazil. Experience foreign policy research, commercial intelligence and prospecting.
 
-Here are some ideas to get you started:
+## 🔭 I’m currently working on... 
+- 🏛️ Legislative Studies
+- 🅰️ Text as data
+- 🎲 Webscraping techniques
+- 😄 Sentiment Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💬 Skills
+### Programming
+- Phyton (Pandas, Numpy)
+- R (tidyverse, dplyr, quanteda, ggplot2)
+### Hard Skills
+- Natural Language Processing
+- Machine learning
+- Network analysis,
+- Discourse analysis
+- Websraping
+
+## Research projects
+- 🏛️ [Senate speech transcriptions](https://github.com/BrunoTCampos/transcricao_disc_senado) - A script to acess transcript of brazilian senators speeches at the plenary.
+- 🌱 [Rural Credit Database](https://github.com/BrunoTCampos/credito_ruralBC/projects?query=is%3Aopen) - A Phyton project to acess Rural Credit data emited by the Central Bank of Brazil. 
+
+
+## 📫 Contact 
+- [brunotcampos@usp.br](brunotcampos@usp.br)
+- [Linkedin](https://www.linkedin.com/in/bruno-taddeo-de-lima-campos/)
