@@ -10,8 +10,9 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 
 ## 💬 Skills
 ### Programming
+- R (tidyverse, dplyr, quanteda, ggplot2) 
 - Phyton (Pandas, Numpy)
-- R (tidyverse, dplyr, quanteda, ggplot2)
+ R (tidyverse, dplyr, quanteda, ggplot2)
 ### Hard Skills
 - Natural Language Processing
 - Machine learning
@@ -21,7 +22,7 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 
 ## Research projects
 - 🏛️ [Senate speech transcriptions](https://github.com/BrunoTCampos/transcricao_disc_senado) - A script to acess transcript of brazilian senators speeches at the plenary.
-- 🌱 [Rural Credit Database](https://github.com/BrunoTCampos/credito_ruralBC/projects?query=is%3Aopen) - A Phyton project to acess Rural Credit data emited by the Central Bank of Brazil. 
+- 🌱 [Rural Credit Database](https://github.com/BrunoTCampos/credito_ruralBC) - A Phyton project to acess Rural Credit data emited by the Central Bank of Brazil. 
 
 
 ## 📫 Contact 
