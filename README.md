@@ -10,9 +10,9 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 
 ## 💬 Skills
 ### Programming
-- R (tidyverse, dplyr, quanteda, ggplot2) 
+- R (tidyverse, dplyr, quanteda, ggplot2, ) 
 - Phyton (Pandas, Numpy)
- R (tidyverse, dplyr, quanteda, ggplot2)
+
 ### Hard Skills
 - Natural Language Processing
 - Machine learning
