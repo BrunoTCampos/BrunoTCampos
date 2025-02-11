@@ -34,4 +34,4 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 
 ## Github Stats
 
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/apiBrunoTCamposanuraghazra)](https://github.com/BrunoTCampos/github-readme-stats)
+[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/apiBrunoTCamposanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
