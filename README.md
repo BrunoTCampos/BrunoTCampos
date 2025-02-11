@@ -10,15 +10,15 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 
 ## 💬 Skills
 ### Programming
-- R (tidyverse, dplyr, quanteda, ggplot2, ) 
-- Phyton (Pandas, Numpy)
+- R (tidyverse, dplyr, quanteda, ggplot2) 
+- Phyton (Pandas, Numpy, requests)
 
 ### Hard Skills
 - Natural Language Processing
 - Machine learning
 - Network analysis,
 - Discourse analysis
-- Websraping
+- Webscraping
 
 ## Research projects
 - 🏛️ [Senate speech transcriptions](https://github.com/BrunoTCampos/transcricao_disc_senado) - A script to acess transcript of brazilian senators speeches at the plenary.
