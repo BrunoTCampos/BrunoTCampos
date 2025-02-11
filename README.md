@@ -31,7 +31,3 @@ Hello, I'm Bruno Campos, Msc Student in International Relations | University of 
 ## 📫 Contact 
 - [brunotcampos@usp.br](brunotcampos@usp.br)
 - [Linkedin](https://www.linkedin.com/in/bruno-taddeo-de-lima-campos/)
-
-## Github Stats
-
-[![Bruno's GitHub stats](https://github-readme-stats.vercel.app/apiBrunoTCamposanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
