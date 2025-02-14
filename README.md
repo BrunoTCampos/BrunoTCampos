@@ -1,6 +1,6 @@
 ## Bruno Campos 👋🏛️
 
-Hello, I'm Bruno Campos, Msc Student in International Relations | University of São Paulo (UFU). Experience in content analysis, webscraping in R, discourse analysis, legislative studies and political behaviour in Brazil. Experience foreign policy research, commercial intelligence and prospecting.
+Hello, I'm Bruno Campos, Msc Student in International Relations | University of São Paulo (USP). Experience in content analysis, webscraping in R, discourse analysis, legislative studies and political behaviour in Brazil. Experience foreign policy research, commercial intelligence and prospecting.
 
 ## 🔭 I’m currently working on... 
 - 🏛️ Legislative Studies
